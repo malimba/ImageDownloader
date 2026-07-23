@@ -1,5 +1,5 @@
 #!python3
-#m4limba
+#m4limba i loved programmjnv without ai
 import requests
 import os
 from tqdm import tqdm
